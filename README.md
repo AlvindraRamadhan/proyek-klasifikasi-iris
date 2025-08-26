@@ -4,7 +4,7 @@ Ini adalah proyek machine learning end-to-end pertama saya! Aplikasi web ini dap
 
 Proyek ini dibangun menggunakan Python, Scikit-learn, dan Streamlit.
 
-**Link Demo Live:** _(Anda akan mengisi bagian ini nanti setelah Fase 6 selesai)_
+**Link Demo Live:** [Lihat Demo Live Aplikasi](https://proyek-klasifikasi-iris-ec5q8taplevh5bsb5unfd2.streamlit.app/)
 
 ---
 
